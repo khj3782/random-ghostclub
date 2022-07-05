@@ -1,0 +1,36 @@
+body{
+  background-color:#F2F2F2;
+  font-family: 'Nanum Gothic', sans-serif;
+  margin:0;
+  text-align: center;
+  word-break:keep-all;
+}
+button{
+  background-color:#FA5882;
+  border:none;
+  border-radius:100%;
+  color:white;
+  height:5rem;
+  margin:5%;
+  width:5rem;
+}
+i{
+  font-size:2rem;
+}
+
+.main-context{
+  margin-top:30vh;
+}
+.text{
+  margin:2rem;
+}
+
+@media(max-width:768px){
+  button{
+    height:3.2rem;
+    width:3.2rem;
+  }
+  i{
+    font-size:1rem;
+  }
+}
