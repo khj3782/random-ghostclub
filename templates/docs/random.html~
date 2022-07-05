@@ -31,7 +31,7 @@
         <div class="text">
           주제 뽑기
         </div>
-        <button onclick="location.href='/'"><i class="fas fa-home"></i></button>
+        <button onclick="location.href='../index.html'"><i class="fas fa-home"></i></button>
       </div>
       <div class="col-sm-3 col-md-3"></div>
     </div>
